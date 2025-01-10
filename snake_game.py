@@ -1,4 +1,4 @@
-# This code is made by MRayan Asim
+
 import time
 import random
 
